@@ -27,7 +27,7 @@ CSS规范 - 分类方法
 
 以上分类的命名方法详见命名规则
 
->    // 重置 
+	// 重置 
 	div,p,ul,ol,li{margin:0;padding:0;}
 	//默认
 	strong,em{font-style:normal;font-weight:bold;}
